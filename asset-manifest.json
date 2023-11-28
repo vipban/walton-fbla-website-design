@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/walton-fbla-website-design/static/css/main.919c8b20.css",
+    "main.js": "/walton-fbla-website-design/static/js/main.30f48ab8.js",
+    "static/js/787.45f4ae2a.chunk.js": "/walton-fbla-website-design/static/js/787.45f4ae2a.chunk.js",
+    "static/media/HabitatLogo.jpeg": "/walton-fbla-website-design/static/media/HabitatLogo.afe02a445fac78436c2f.jpeg",
+    "static/media/GalaPhoto.jpg": "/walton-fbla-website-design/static/media/GalaPhoto.964bc01d9a33cc57e071.jpg",
+    "index.html": "/walton-fbla-website-design/index.html",
+    "main.919c8b20.css.map": "/walton-fbla-website-design/static/css/main.919c8b20.css.map",
+    "main.30f48ab8.js.map": "/walton-fbla-website-design/static/js/main.30f48ab8.js.map",
+    "787.45f4ae2a.chunk.js.map": "/walton-fbla-website-design/static/js/787.45f4ae2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.919c8b20.css",
+    "static/js/main.30f48ab8.js"
+  ]
+}
